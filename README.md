@@ -2,7 +2,7 @@ Bitcoin ticker (under construction).
 ====================================
 
 #### Usage ####
-    npm install coffee-script jade
+    npm install
     make
 
 Open test.html in a browser.
